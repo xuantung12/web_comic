@@ -38,6 +38,7 @@ likes, follows: Bảng phụ hỗ trợ tính năng yêu thích và theo dõi
 # một số giao diện trang quản trị 
 ![image](https://github.com/user-attachments/assets/f23186c4-e225-46d6-af82-bdc0eb51dba5)
 ![image](https://github.com/user-attachments/assets/9f65998d-8848-4a60-a88c-7760ac08ffe0)
+################ trang add chapter
 ![image](https://github.com/user-attachments/assets/b0ca95fe-0f40-4196-ac75-5c08e2f656da)
 
 
