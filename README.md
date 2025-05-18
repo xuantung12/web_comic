@@ -1,41 +1,52 @@
-# web_comic
-ComicWeb là một nền tảng đọc truyện tranh trực tuyến được phát triển thuần bằng PHP kết hợp với các công nghệ Web hiện đại, cho phép người dùng trải nghiệm đọc truyện mượt mà, dễ sử dụng và đầy đủ tính năng.
-#Tính năng nổi bật
-Trang chủ nổi bật: Hiển thị các truyện hot, truyện mới cập nhật và truyện được nhiều người yêu thích.
-Xem toàn bộ truyện: Người dùng có thể xem danh sách toàn bộ truyện tranh hiện có.
+## ComicWeb
+ComicWeb is an online comic reading platform built entirely with pure PHP, integrated with modern web technologies to deliver a seamless and feature-rich user experience. The website is designed to be intuitive, responsive, and easy to navigate for all types of users.
 
-#Tìm kiếm nâng cao:
-Tìm truyện theo tên truyện.
-Tìm truyện theo thể loại yêu thích.
-❤️Thả tim (like) và ⭐ Theo dõi (follow) truyện yêu thích.
+## Key Features
+- Homepage Highlights
+Showcases trending comics, newly updated titles, and the most liked series.
 
-#Đọc truyện chi tiết: Sau khi nhấn vào truyện, người dùng có thể xem toàn bộ các chương và đọc truyện trực tiếp.
+- Full Comic Library
+Browse a complete list of all available comics in the database.
 
-#Thể loại truyện hỗ trợ tìm kiếm
-Trang web hỗ trợ phân loại và tìm kiếm theo hơn 25 thể loại truyện tranh phổ biến:
-Xuyên Không, Truyện Màu, Cổ Đại, Học Đường, Ngôn Tình, Action, Demon, Isekai, Commedy,
-Trọng Sinh, Webtoon, Huyền Huyễn, Mafia, Magic, Manhua, Manhwa, Martial Arts,
-Anime, One shot, Psychological, Romance, School, Life, Sci-fi, Shounen, Ai, Slice of life
+- Advanced Search
 
-#Công nghệ sử dụng
-🔹 Front-end:
-HTML5, CSS3: Thiết kế giao diện cơ bản và responsive
-JavaScript (Vanilla JS): Tạo hiệu ứng, xử lý sự kiện (click, tìm kiếm, v.v.)
-Font Awesome: Hiển thị icon (mặt trời, mặt trăng, tim, bookmark,...)
-AJAX (optional): Nếu có tìm kiếm không reload trang
+- Search comics by title
 
-🔹 Back-end:
-PHP (thuần): Xử lý logic hiển thị, thao tác cơ sở dữ liệu, phân trang,...
-MySQL: Quản lý dữ liệu truyện, chương, người dùng, lượt thích, theo dõi
-PHP Sessions / Cookies: Quản lý người dùng đăng nhập, theo dõi lịch sử đọc
+- Filter comics by favorite genres
 
-🔹 Cấu trúc cơ sở dữ liệu (ví dụ):
-comics: Thông tin truyện tranh
-chapters: Danh sách chương truyện
-users: Người dùng
-likes, follows: Bảng phụ hỗ trợ tính năng yêu thích và theo dõi
+- ❤️ Like & ⭐ Follow System
+Users can like and follow their favorite comics for quick access and updates.
 
-# một số giao diện trang quản trị 
+- Detailed Comic Viewer
+View all chapters of a selected comic and read them in a smooth, uninterrupted interface.
+
+## Supported Genres
+ComicWeb supports over 25 popular genres, including:
+
+Isekai, Romance, Action, Demon, Comedy, School Life, Time Travel, Historical, Manhwa, Manhua, Martial Arts, Webtoon, Magic, Mafia, Sci-fi, Psychological, Shounen, Slice of Life, Anime, Rebirth, Fantasy (Huyền Huyễn), One-shot, Yaoi (Ai), and more.
+
+## 🛠️ Technologies Used
+Front-End
+- HTML5 & CSS3 – Basic UI structure and responsive design
+- JavaScript (Vanilla) – Interactive behaviors and event handling
+- Font Awesome – Icon integration (sun, moon, like, bookmark, etc.)
+- AJAX (Optional) – For smooth, reload-free search experience
+
+Back-End
+- PHP (Pure PHP) – Logic handling, data operations, routing, pagination, etc.
+- MySQL – Storing and managing comic info, chapters, user data, likes, and follows
+- PHP Sessions / Cookies – For login management and reading history tracking
+
+## Database Structure
+
+## Note
+This project is developed using pure PHP without any frameworks, making it lightweight and easy to customize for beginners or those who want full control over their application's structure.
+
+## Developer
+Created and maintained by [Your Name].
+If you find this project useful, feel free to give it a ⭐ and contribute!
+
+## Screenshots
 ![image](https://github.com/user-attachments/assets/f23186c4-e225-46d6-af82-bdc0eb51dba5)
 ![image](https://github.com/user-attachments/assets/9f65998d-8848-4a60-a88c-7760ac08ffe0)
 ################ trang add chapter
