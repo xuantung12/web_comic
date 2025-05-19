@@ -43,7 +43,7 @@ Back-End
 This project is developed using pure PHP without any frameworks, making it lightweight and easy to customize for beginners or those who want full control over their application's structure.
 
 ## Developer
-Created and maintained by [Your Name].
+Created and maintained by Xuân Tùng.
 If you find this project useful, feel free to give it a ⭐ and contribute!
 
 ## Screenshots
